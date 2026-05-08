@@ -3,5 +3,5 @@
   "author": "monthzifang",
   "main": "com.mdt.anonymous.AnonymousPlugin",
   "description": "在服务器玩家进入时随机生成显示名称，但不会更改 com id，并支持其他插件或外部方式检测、开关和重置匿名状态。",
-  "version": "v1"
+  "version": "V1.0.0 - 157X"
 }
