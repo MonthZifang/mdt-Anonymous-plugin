@@ -5,8 +5,8 @@
   "displayNameZh": "MDT 匿名插件",
   "author": "monthzifang",
   "description": "Randomizes player display names on join without changing com id and lets other plugins toggle or query the anonymous switch.",
-  "descriptionZh": "在服务器玩家进入时随机生成显示名称，但不会更改 com id，并支持其他插件或外部方式检测、开关和重置匿名状态。",
-  "version": "v1",
+  "descriptionZh": "在玩家进入服务器时随机生成显示名称，但不会修改 com id，并支持其他插件或外部方式检测、开关和重置匿名状态。",
+  "version": "V1.2.0 - 157X - 2026x5-9",
   "requiredMarketVersion": "v1",
   "channel": "native",
   "targets": [
